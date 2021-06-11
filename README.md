@@ -1,4 +1,4 @@
-# BMLMosquitoMonitor
+# BML Mosquito Monitor
 
 This repository contains all files & instructions needed to recreate the BML Mosquito Monitor including:
 - Mechanical design files needed for laser-cutting
