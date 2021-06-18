@@ -11,4 +11,4 @@ On a high-level, using up the BML Mosquito Monitor involves the following steps:
 2. Setting up the Raspberry Pi and camera system (instructions in the [RPi_Code](https://github.com/Bhaskaryechuri/BMLMosquitoMonitor/tree/main/RPi_Code) folder)
 3. Setting up the behavioral assay items & conditions inside the box (lighting, experimental treatments & controls)
 4. Configuring and running the video recording software
-5. Getting the video data out of the Raspberry Pi (via external USB hard drive)
+5. Getting the video data out of the Raspberry Pi (via a USB drive)
