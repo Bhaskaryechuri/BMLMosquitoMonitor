@@ -1,0 +1,1 @@
+This version of the program is launched by double-clicking the "CLICK ME TO START" file on the desktop. This launches a user interface that can be used via touchscreen and mouse+keyboard. Using the user interface, the camera and recording settings can be chosen and the recording can be initiated.
