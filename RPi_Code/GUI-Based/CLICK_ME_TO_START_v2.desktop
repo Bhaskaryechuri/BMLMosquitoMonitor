@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=CLICK_ME_TO_START
+Exec='/home/pi/Desktop/UI Development-May27/main.py'
+Icon='/home/pi/Desktop/UI Development/video.png'
+StartupNotify=true
+Terminal=true
+Name[en_US]=CLICK_ME_TO_START.desktop
