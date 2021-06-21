@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=TXT_CAM
+Exec='/home/pi/Desktop/txtfile_integrated.py'
+StartupNotify=true
+Terminal=true
+Name[en_US]=TXT_CAM.desktop
+
