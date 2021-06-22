@@ -4,6 +4,7 @@ This repository contains all files & instructions needed to recreate the BML Mos
 - Mechanical design files needed for laser-cutting
 - A copy of the entire Raspberry Pi image (most efficient way of replicating the BML Mosquito Monitor software and settings on a new Raspberry Pi)
 - Latest version of the BMLBox App Code (already present in the RPi Image, but helpful when iterating on the software)
+- A [Zoology Owncloud link to the raspberry pi disk image](https://cloud.zoology.ubc.ca/s/NsVyCmkXQ03NwOV) contaiing all the code and required settings (use this as your starting point when using a new Raspberry Pi)
 
 
 On a high-level, using up the BML Mosquito Monitor involves the following steps:
